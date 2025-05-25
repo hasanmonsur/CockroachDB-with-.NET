@@ -1,0 +1,6 @@
+@CockroachDBApi_HostAddress = http://localhost:5299
+
+GET {{CockroachDBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
